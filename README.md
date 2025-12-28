@@ -134,7 +134,7 @@ This project is open source and available under the MIT License.
 ## 👥 Contributors
 
 - [Salman Khan](https://github.com/salmankhan-1106)
-- [Collaborator](https://github.com/blackwatermelon0000)
+- [Ayesha Mehmood](https://github.com/blackwatermelon0000)
 
 ## 🙏 Acknowledgments
 
