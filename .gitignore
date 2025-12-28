@@ -1,0 +1,41 @@
+# Exclude dataset folders
+plantvillage dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model checkpoints (too large for GitHub)
+*.h5
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
